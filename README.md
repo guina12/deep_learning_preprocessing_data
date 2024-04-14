@@ -7,10 +7,10 @@ This repository provides examples and code snippets for data preprocessing using
 Data preprocessing is a crucial step in the machine learning pipeline, as it involves transforming raw data into a format suitable for training machine learning models. The Keras Data API offers powerful tools for loading and manipulating data within the TensorFlow ecosystem, while scikit-learn provides a wide range of traditional preprocessing techniques.
 ![image](https://github.com/guina12/deep_learning_preprocessing_data/assets/115325442/6aebf9a4-14cd-4195-8ba3-ff6ac99a8d61)
 
-![image](https://github.com/guina12/deep_learning_preprocessing_data/assets/115325442/fcbd4f18-7f62-479f-99de-f1d2c8351e38)
-
 
 ## Usage
+
+![image](https://github.com/guina12/deep_learning_preprocessing_data/assets/115325442/fcbd4f18-7f62-479f-99de-f1d2c8351e38)
 
 You can explore the examples provided in each directory to understand how to perform common data preprocessing tasks using both the Keras Data API and scikit-learn. Each example includes detailed comments and explanations to guide you through the process.
 

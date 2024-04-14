@@ -9,11 +9,6 @@ Data preprocessing is a crucial step in the machine learning pipeline, as it inv
 
 ![image](https://github.com/guina12/deep_learning_preprocessing_data/assets/115325442/fcbd4f18-7f62-479f-99de-f1d2c8351e38)
 
-## Contents
-
-- **keras_data_api_examples/**: Contains examples demonstrating data preprocessing using the Keras Data API.
-- **scikit_learn_examples/**: Contains examples demonstrating data preprocessing using scikit-learn.
-- **utils.py**: Utility functions for data preprocessing tasks.
 
 ## Usage
 
